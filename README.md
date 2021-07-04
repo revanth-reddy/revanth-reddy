@@ -18,10 +18,7 @@
 
 
 ---
-<p  align="center">
-<img align="left" src="https://media.giphy.com/media/QI1U4aibKhYCj6f7JM/giphy.gif" width="120"> <em><b>In short, about me...  </b></em>
-</p>
-<br>
+
 
 
 ```javascript
