@@ -13,7 +13,7 @@
 <p><em>Research Assistant @ TauGroup | SDE Intern @ Amazon | Software Development Engineer at <a href="https://www.oyorooms.com/">OYO</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
 [
-![Site reddie.tech](https://img.shields.io/badge/do%20visit-reddie.tech-informational)](https://reddie.tech)[![GitHub revanth-reddy](https://img.shields.io/github/followers/revanth-reddy?label=follow&style=social)](https://github.com/revanth-reddy)[![Linkedin: revanth--reddy](https://img.shields.io/badge/-revanth--reddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/revanth--reddy/)
+![Site reddie.tech](https://img.shields.io/badge/do%20visit-revanth.tech-informational)](https://revanth.tech)[![GitHub revanth-reddy](https://img.shields.io/github/followers/revanth-reddy?label=follow&style=social)](https://github.com/revanth-reddy)[![Linkedin: revanth--reddy](https://img.shields.io/badge/-revanth--reddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/revanth--reddy/)
 
 
 
